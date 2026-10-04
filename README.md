@@ -7,9 +7,9 @@ I'm passionate about programming, software development in Python and C/C++, and 
 
 ---
 
-###📚 Currently Learning:
+## 📚 Currently Learning:
 
-###-🐍 Advanced Python & backend architecture
+## -🐍 Advanced Python & backend architecture
 
 📊 Classical ML: regression, classification, clustering
 
