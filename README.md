@@ -15,7 +15,19 @@ I'm passionate about programming, software development in Python and C/C++, and 
 
 🐳 Docker & CI/CD for ML 
 
+Привет! 👋
+Меня зовут Чичаев Нииколай, я студент МГТУ им. Н.Э. Баумана 🎓
 
-💡 "Study as if you were to live forever; live as if you were to die tomorrow" — O. Khayyam
+Увлекаюсь программированием, разработкой на Python и C/C++, а также активно развиваюсь в сфере Data Science и Python-разработки. Люблю решать сложные задачи, разбираться в алгоритмах и превращать данные в полезные инсайты.
 
-⭐️ Feel free to star my projects if you find them useful!
+📚 Что я сейчас изучаю:
+
+🐍 Продвинутый Python и архитектуру backend-приложений
+
+📊 Классический ML: регрессия, классификация, кластеризация
+
+🧠 Нейронные сети и Deep Learning (PyTorch)
+
+⚙️ Алгоритмы и структуры данных
+
+🐳 Docker и CI/CD для ML-проектов
