@@ -9,29 +9,33 @@ I'm passionate about programming, software development in Python and C/C++, and 
 
 ## 📚 Currently Learning:
 
-##- 🐍 Advanced Python & backend architecture
+## -🐍 Advanced Python & backend architecture
 
-📊 Classical ML: regression, classification, clustering
+## -📊 Classical ML: regression, classification, clustering
 
-🧠 Neural Networks & Deep Learning (PyTorch)
+## -🧠 Neural Networks & Deep Learning (PyTorch)
 
-⚙️ Algorithms and Data Structures
+## -⚙️ Algorithms and Data Structures
 
-🐳 Docker & CI/CD for ML 
+## -🐳 Docker & CI/CD for ML 
 
 Привет! 👋
-Меня зовут Чичаев Нииколай, я студент МГТУ им. Н.Э. Баумана 🎓
+Меня зовут Чичаев Николай, я студент МГТУ им. Н.Э. Баумана 🎓
+
+---
 
 Увлекаюсь программированием, разработкой на Python и C/C++, а также активно развиваюсь в сфере Data Science и Python-разработки. Люблю решать сложные задачи, разбираться в алгоритмах и превращать данные в полезные инсайты.
 
-📚 Что я сейчас изучаю:
+---
 
-🐍 Продвинутый Python и архитектуру backend-приложений
+## 📚 Что я сейчас изучаю:
 
-📊 Классический ML: регрессия, классификация, кластеризация
+## -🐍 Продвинутый Python и архитектуру backend-приложений
 
-🧠 Нейронные сети и Deep Learning (PyTorch)
+## -📊 Классический ML: регрессия, классификация, кластеризация
 
-⚙️ Алгоритмы и структуры данных
+## -🧠 Нейронные сети и Deep Learning (PyTorch)
 
-🐳 Docker и CI/CD для ML-проектов
+## -⚙️ Алгоритмы и структуры данных
+
+## -🐳 Docker и CI/CD для ML-проектов
