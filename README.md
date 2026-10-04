@@ -3,16 +3,16 @@
 
 ---
 
-## I'm passionate about programming, software development in Python and C/C++, and I'm actively growing in the fields of Data Science and Python Development. I enjoy solving challenging problems, diving deep into algorithms, and turning raw data into meaningful insights.
+I'm passionate about programming, software development in Python and C/C++, and I'm actively growing in the fields of Data Science and Python Development. I enjoy solving challenging problems, diving deep into algorithms, and turning raw data into meaningful insights.
 
 ---
 
 ## 📚 Currently Learning:
-## -🐍 Advanced Python & backend architecture
-## -📊 Classical ML: regression, classification, clustering
-## -🧠 Neural Networks & Deep Learning (PyTorch)
-## -⚙️ Algorithms and Data Structures
-## -🐳 Docker & CI/CD for ML 
+ -🐍 Advanced Python & backend architecture
+ -📊 Classical ML: regression, classification, clustering
+ -🧠 Neural Networks & Deep Learning (PyTorch)
+ -⚙️ Algorithms and Data Structures
+ -🐳 Docker & CI/CD for ML 
 
 ---
 
