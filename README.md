@@ -1,6 +1,5 @@
 ## 🇺🇸
 
----
 ## Hi there! 👋
 ## My name is Chichaev Nikolay, and I'm a student at Bauman Moscow State Technical University (BMSTU) 🎓
 
@@ -21,7 +20,6 @@ I'm passionate about programming, software development in Python and C/C++, and 
 
 ## 🇷🇺
 
----
 
 ## Привет! 👋
 ## Меня зовут Чичаев Николай, я студент МГТУ им. Н.Э. Баумана 🎓
