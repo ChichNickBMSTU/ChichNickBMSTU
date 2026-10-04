@@ -1,9 +1,9 @@
-Hi there! 👋
-My name is Chichaev Nikolay, and I'm a student at Bauman Moscow State Technical University (BMSTU) 🎓
+## Hi there! 👋
+## My name is Chichaev Nikolay, and I'm a student at Bauman Moscow State Technical University (BMSTU) 🎓
 
 ---
 
-I'm passionate about programming, software development in Python and C/C++, and I'm actively growing in the fields of Data Science and Python Development. I enjoy solving challenging problems, diving deep into algorithms, and turning raw data into meaningful insights.
+## I'm passionate about programming, software development in Python and C/C++, and I'm actively growing in the fields of Data Science and Python Development. I enjoy solving challenging problems, diving deep into algorithms, and turning raw data into meaningful insights.
 
 ---
 
@@ -16,12 +16,12 @@ I'm passionate about programming, software development in Python and C/C++, and 
 
 ---
 
-Привет! 👋
-Меня зовут Чичаев Николай, я студент МГТУ им. Н.Э. Баумана 🎓
+## Привет! 👋
+## Меня зовут Чичаев Николай, я студент МГТУ им. Н.Э. Баумана 🎓
 
 ---
 
-Увлекаюсь программированием, разработкой на Python и C/C++, а также активно развиваюсь в сфере Data Science и Python-разработки. Люблю решать сложные задачи, разбираться в алгоритмах и превращать данные в полезные инсайты.
+## Увлекаюсь программированием, разработкой на Python и C/C++, а также активно развиваюсь в сфере Data Science и Python-разработки. Люблю решать сложные задачи, разбираться в алгоритмах и превращать данные в полезные инсайты.
 
 ---
 
