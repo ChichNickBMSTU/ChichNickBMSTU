@@ -1,4 +1,4 @@
-🇺🇸
+## 🇺🇸
 
 ---
 ## Hi there! 👋
@@ -19,7 +19,7 @@ I'm passionate about programming, software development in Python and C/C++, and 
 
 ---
 
-🇷🇺
+## 🇷🇺
 
 ---
 
