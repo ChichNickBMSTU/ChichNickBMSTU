@@ -1,3 +1,6 @@
+🇺🇸
+
+---
 ## Hi there! 👋
 ## My name is Chichaev Nikolay, and I'm a student at Bauman Moscow State Technical University (BMSTU) 🎓
 
@@ -13,6 +16,10 @@ I'm passionate about programming, software development in Python and C/C++, and 
  ## -🧠 Neural Networks & Deep Learning (PyTorch)
  ## -⚙️ Algorithms and Data Structures
  ## -🐳 Docker & CI/CD for ML 
+
+---
+
+🇷🇺
 
 ---
 
