@@ -19,6 +19,8 @@ I'm passionate about programming, software development in Python and C/C++, and 
 
 ## -🐳 Docker & CI/CD for ML 
 
+---
+
 Привет! 👋
 Меня зовут Чичаев Николай, я студент МГТУ им. Н.Э. Баумана 🎓
 
