@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there! 👋
+My name is Chichaev Nikolay, and I'm a student at Bauman Moscow State Technical University (BMSTU) 🎓
 
-<!--
-**ChichNickBMSTU/ChichNickBMSTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming, software development in Python and C/C++, and I'm actively growing in the fields of Data Science and Python Development. I enjoy solving challenging problems, diving deep into algorithms, and turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+📚 Currently Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Advanced Python & backend architecture
+
+📊 Classical ML: regression, classification, clustering
+
+🧠 Neural Networks & Deep Learning (PyTorch)
+
+⚙️ Algorithms and Data Structures
+
+🐳 Docker & CI/CD for ML 
+
+
+💡 "Study as if you were to live forever; live as if you were to die tomorrow" — O. Khayyam
+
+⭐️ Feel free to star my projects if you find them useful!
