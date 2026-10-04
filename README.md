@@ -8,11 +8,11 @@ I'm passionate about programming, software development in Python and C/C++, and 
 ---
 
 ## 📚 Currently Learning:
- -🐍 Advanced Python & backend architecture
- -📊 Classical ML: regression, classification, clustering
- -🧠 Neural Networks & Deep Learning (PyTorch)
- -⚙️ Algorithms and Data Structures
- -🐳 Docker & CI/CD for ML 
+ ## -🐍 Advanced Python & backend architecture
+ ## -📊 Classical ML: regression, classification, clustering
+ ## -🧠 Neural Networks & Deep Learning (PyTorch)
+ ## -⚙️ Algorithms and Data Structures
+ ## -🐳 Docker & CI/CD for ML 
 
 ---
 
